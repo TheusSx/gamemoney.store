@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1650" height="133" viewBox="0 0 1650 133">
+  <defs>
+    <filter id="PREÇOS_ALTOS_NO_MERCADO_NÃO_SÃO_MAIS_PROBLEMA_" x="144" y="1" width="1359" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.451"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_46" data-name="Grupo 46" transform="translate(-965.415 -4684)">
+    <rect id="Retângulo_15" data-name="Retângulo 15" width="1369" height="68" transform="translate(1105.415 4684)" fill="#ef1435"/>
+    <text id="FOI_DESCOBERTO_UM_NOVO_JOGO_QUE_TE_PAGA_ATÉ_R_491_72_POR_DIA_" data-name="FOI DESCOBERTO UM NOVO JOGO QUE TE PAGA ATÉ R$491,72 POR DIA…" transform="translate(1790.415 4806)" fill="#fbfbfb" font-size="43" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-824.912" y="0">FOI DESCOBERTO UM NOVO JOGO QUE TE PAGA ATÉ R$491,72 POR DIA…</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 965.42, 4684)" filter="url(#PREÇOS_ALTOS_NO_MERCADO_NÃO_SÃO_MAIS_PROBLEMA_)">
+      <text id="PREÇOS_ALTOS_NO_MERCADO_NÃO_SÃO_MAIS_PROBLEMA_2" data-name="PREÇOS ALTOS NO MERCADO NÃO SÃO MAIS PROBLEMA!!!" transform="translate(823 49)" fill="#fbfbfb" font-size="43" font-family="Montserrat-BoldItalic, Montserrat" font-weight="700" font-style="italic"><tspan x="-669.381" y="0">PREÇOS ALTOS NO MERCADO NÃO SÃO MAIS PROBLEMA!!!</tspan></text>
+    </g>
+  </g>
+</svg>
